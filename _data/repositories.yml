@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mikevasmer 
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mikevasmer/qudit-single-shot
+  - mikevasmer/hybrid-decoder
+  - mikevasmer/single_shot_3D_HGP
+  - mikevasmer/Sweep-Decoder-Boundaries
+  - XanaduAI/flamingpy
+  - esabo/CodingTheory
