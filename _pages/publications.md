@@ -12,7 +12,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 ### Preprints
 
-<div class="preprints">
+<div class="publications">
 {%- for y in page.yearsPre %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f preprints -q @*[year={{y}}]* %}
@@ -32,7 +32,7 @@ nav_order: 1
 
 ### PhD thesis
 
-<div class="thesis">
+<div class="publications">
 {%- for y in page.yearsThe %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f theses -q @*[year={{y}}]* %}
