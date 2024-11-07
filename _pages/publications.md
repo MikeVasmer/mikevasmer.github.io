@@ -9,12 +9,14 @@ yearsThe: [2019]
 nav: true
 nav_order: 1
 ---
+
 <!-- _pages/publications.md -->
+
 ### Preprints
 
 <div class="publications">
 {%- for y in page.yearsPre %}
-  <h2 class="year">{{y}}</h2>
+  <!-- <h2 class="year">{{y}}</h2> -->
   {% bibliography -f preprints -q @*[year={{y}}]* %}
 {% endfor %}
 </div>
@@ -25,7 +27,7 @@ nav_order: 1
 
 <div class="publications">
 {%- for y in page.yearsPub %}
-  <h2 class="year">{{y}}</h2>
+  <!-- <h2 class="year">{{y}}</h2> -->
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 </div>

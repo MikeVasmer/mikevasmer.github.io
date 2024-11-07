@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description:
 nav: true
 nav_order: 2
 ---
@@ -10,6 +10,7 @@ nav_order: 2
 #### Quantum error correction and fault tolerance, IQC winter 2022
 
 I gave six lectures on fault-tolerant quantum computation as part of this course.
+
 - [Lecture 1](../assets/pdf/lecture1.pdf): Definition of fault-tolerance
 - [Lecture 2](../assets/pdf/lecture2.pdf): Fault-tolerant operators part I
 - [Lecture 3](../assets/pdf/lecture3.pdf): Fault-tolerant operators part II
