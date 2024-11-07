@@ -1,10 +1,10 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   Senior Quantum Architecture Researcher @ <a href=https://www.xanadu.ai>Xanadu</a> // 
-  Research Scientist @ <a href=https://perimeterinstitute.ca>Perimeter Institute</a>
+  Research Scientist @ <a href=https://perimeterinstitute.ca>Perimeter Institute</a> //
   Associate Member @ <a href=https://uwaterloo.ca/institute-for-quantum-computing/>IQC</a>
 
 profile:
