@@ -22,7 +22,7 @@ This research is crucial in the quest to build large-scale quantum computers and
 
 I did my PhD at University College London, where my supervisor was [Dan Browne](https://sites.google.com/site/danbrowneucl).
 After that I was a joint postdoctoral fellow at [Perimeter Institute](https://perimeterinstitute.ca) & [IQC](https://uwaterloo.ca/institute-for-quantum-computing), working in the group of [Raymond Laflamme](https://laflamme.iqc.uwaterloo.ca).
-Most recently, I was a Senior Quantum Architecture Researcher at [Xanadu](https://xanadu.ai) and a Research Scientist at Perimeter.
-I am currently a visiting fellow at Perimeter and an associate member of IQC.
+Most recently, I worked as a Senior Quantum Architecture Scientist at [Xanadu](https://xanadu.ai) and as a Research Scientist at Perimeter Institute.
+I am currently a visiting fellow at Perimeter Institute and an associate member of IQC.
 
 <!-- My full CV can be downloaded [here](assets/pdf/cv.pdf). -->
