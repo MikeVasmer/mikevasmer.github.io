@@ -11,10 +11,10 @@ nav_order: 2
 
 Joint course taught with Debbie Leung. [Course webpage](https://www.math.uwaterloo.ca/~wcleung/qic890-w2024.html).
 
-- [Lecture 1](../assets/pdf/qLPDC-lecture1.pdf): Quantum low-density parity-check codes
-- [Lecture 2](../assets/pdf/qLPDC-lecture2.pdf): Hypergraph product codes part I
-- [Lecture 3](../assets/pdf/qLPDC-lecture3.pdf): Hypergraph product codes part II
-- [Lecture 4](../assets/pdf/qLPDC-lecture4.pdf): Quantum expander codes
+- [Lecture 1](../assets/pdf/qLDPC-lecture1.pdf): Quantum low-density parity-check codes
+- [Lecture 2](../assets/pdf/qLDPC-lecture2.pdf): Hypergraph product codes part I
+- [Lecture 3](../assets/pdf/qLDPC-lecture3.pdf): Hypergraph product codes part II
+- [Lecture 4](../assets/pdf/qLDPC-lecture4.pdf): Quantum expander codes
 
 Lectures 5-10 covered the same content as the 2022 lectures below.
 
