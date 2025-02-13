@@ -25,4 +25,4 @@ Subsequently, I held a joint postdoctoral fellowship at the [Perimeter Institute
 Most recently, I worked as a Senior Quantum Architecture Scientist at [Xanadu](https://xanadu.ai) and as a Research Scientist at the Perimeter Institute.
 Currently, I am a visiting fellow at the Perimeter Institute and an associate member of IQC.
 
-My CV can be downloaded [here](assets/pdf/cv.pdf).
+My CV can be downloaded [here](../assets/pdf/cv.pdf).
