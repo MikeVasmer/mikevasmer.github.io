@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: For an up to date list, see <a href=https://arxiv.org/a/vasmer_m_1.html>my arXiv page</a>.
-yearsPub: [2024, 2023, 2022, 2021, 2019]
+yearsPub: [2025, 2024, 2023, 2022, 2021, 2019]
 yearsPre: [2024]
 yearsThe: [2019]
 nav: true
