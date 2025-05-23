@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a researcher working in the exciting field of quantum information.
-In my work I focus on **quantum error correction**, i.e., making sure that quantum computers function correctly even when some of their components go wrong.
+In my work I focus on **quantum error correction**, making sure that quantum computers function correctly even when some of their components go wrong.
 This research is crucial in the quest to build large-scale quantum computers and also has surprising connections to various fields of mathematics, physics, and computer science.
 
 I completed my PhD at University College London under the supervision of [Dan Browne](https://sites.google.com/site/danbrowneucl).
