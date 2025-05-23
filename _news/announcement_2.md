@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started a new position at Inria Paris! 💼 🇫🇷
+I started a new position at Inria Paris 💼 🇫🇷
