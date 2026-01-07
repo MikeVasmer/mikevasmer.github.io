@@ -16,7 +16,7 @@ nav_order: 2
 ### Former students
 
 - **Emiliia Dyrenkova**. I supervised Emiliia's master's thesis on fermionic encodings (alongside Raymond Laflamme). Emiliia is currently studying for a PhD in quantum computing at the University of Toronto.
-- [Eric Huang](https://www.quics.umd.edu/people/eric-huang). I supervised Eric's PSI essay for the Perimeter Scholars International master's program (alongside Beni Yoshida). Eric is currently studying for a PhD in quantum error correction and fault tolerance at the University of Maryland.
+- **[Eric Huang](https://www.quics.umd.edu/people/eric-huang)**. I supervised Eric's PSI essay for the Perimeter Scholars International master's program (alongside Beni Yoshida). Eric is currently studying for a PhD in quantum error correction and fault tolerance at the University of Maryland.
 
 ### Former interns
 
