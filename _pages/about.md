@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Researcher @ <a href=https://www.inria.fr/en/centre-inria-de-paris>Inria Paris</a> (COSMIQ team)
+  Starting Faculty Position @ <a href=https://www.inria.fr/en/centre-inria-de-paris>Inria Paris</a> (COSMIQ team)
 
 profile:
   align: right
@@ -21,7 +21,7 @@ In my work I focus on **quantum error correction**, making sure that quantum com
 This research is crucial in the quest to build large-scale quantum computers and also has surprising connections to various fields of mathematics, physics, and computer science.
 
 I completed my PhD at University College London under the supervision of [Dan Browne](https://sites.google.com/site/danbrowneucl).
-Subsequently, I held a joint postdoctoral fellowship at the [Perimeter Institute](https://perimeterinstitute.ca) and the [Institute for Quantum Computing (IQC)](https://uwaterloo.ca/institute-for-quantum-computing), where my mentors were [Raymond Laflamme](https://laflamme.iqc.uwaterloo.ca) and [Daniel Gottesman](https://www.cs.umd.edu/~dgottesm/).
+Subsequently, I held a joint postdoctoral fellowship at the [Perimeter Institute](https://perimeterinstitute.ca) and the [Institute for Quantum Computing (IQC)](https://uwaterloo.ca/institute-for-quantum-computing), where my mentors were Raymond Laflamme and [Daniel Gottesman](https://www.cs.umd.edu/~dgottesm/).
 After that I worked as a Senior Quantum Architecture Scientist at [Xanadu](https://xanadu.ai) and as a Research Scientist at the Perimeter Institute.
 
 My CV can be downloaded [here](../assets/pdf/cv.pdf).
