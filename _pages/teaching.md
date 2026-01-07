@@ -7,7 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-#### Introduction to quantum information, ENS-PSL Master Quantum Engineering (M2), Autumn 2025
+#### Introduction to quantum information, Université PSL, Autumn 2025
+
+Master's (M2) course taught as part of the [Master Quantum Engineering](https://www.phys.ens.fr/en/formations/master-quantum-engineering) at Université Paris Science et Lettres.
 
 - [Lecture 1](../assets/pdf/QI-lecture1.pdf): Quantum states
 - [Lecture 2](../assets/pdf/QI-lecture2.pdf): Quantum measurements
@@ -19,9 +21,9 @@ nav_order: 3
 - [Quantum Programming 1](../assets/pdf/QI-programming1.ipynb): Visualising noise processes, T1 and T2 experiments
 - [Quantum Programming 2](../assets/pdf/QI-programming2.ipynb): Quantum state and process tomography
 
-#### Quantum error correction and fault tolerance, Institute for Quantum Computing, Winter 2024
+#### Quantum error correction and fault tolerance, IQC, Winter 2024
 
-Joint course taught with Debbie Leung. [Course webpage](https://www.math.uwaterloo.ca/~wcleung/qic890-w2024.html).
+Joint course taught with Debbie Leung at the Institute for Quantum Computing. [Course webpage](https://www.math.uwaterloo.ca/~wcleung/qic890-w2024.html).
 
 - [Lecture 1](../assets/pdf/qLDPC-lecture1.pdf): Quantum low-density parity-check codes
 - [Lecture 2](../assets/pdf/qLDPC-lecture2.pdf): Hypergraph product codes part I
@@ -30,9 +32,9 @@ Joint course taught with Debbie Leung. [Course webpage](https://www.math.uwaterl
 
 Lectures 5-10 covered the same content as the 2022 lectures below.
 
-#### Quantum error correction and fault tolerance, Institute for Quantum Computing, Winter 2022
+#### Quantum error correction and fault tolerance, IQC, Winter 2022
 
-Joint course taught with Debbie Leung and Beni Yoshida. [Course webpage](https://www.math.uwaterloo.ca/~wcleung/co781-w2022.html).
+Joint course taught with Debbie Leung and Beni Yoshida at the Institue for Quantum Computing. [Course webpage](https://www.math.uwaterloo.ca/~wcleung/co781-w2022.html).
 
 - [Lecture 1](../assets/pdf/FT-lecture1.pdf): Definition of fault-tolerance
 - [Lecture 2](../assets/pdf/FT-lecture2.pdf): Fault-tolerant operators part I
