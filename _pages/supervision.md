@@ -15,11 +15,11 @@ nav_order: 2
 
 ### Former students
 
-- **Emiliia Dyrenkova**. I supervised Emiliia's master's thesis on fermionic encodings (alongside Raymond Laflamme). Emiliia is currently doing a PhD on quantum computing at the University of Toronto.
-- [Eric Huang](https://www.quics.umd.edu/people/eric-huang). I supervised Eric's PSI essay for the Perimeter Scholars International master's program (alongside Beni Yoshida). Eric is currently doing a PhD on quantum error correction and fault tolerance at the University of Maryland.
+- **Emiliia Dyrenkova**. I supervised Emiliia's master's thesis on fermionic encodings (alongside Raymond Laflamme). Emiliia is currently studying for a PhD in quantum computing at the University of Toronto.
+- [Eric Huang](https://www.quics.umd.edu/people/eric-huang). I supervised Eric's PSI essay for the Perimeter Scholars International master's program (alongside Beni Yoshida). Eric is currently studying for a PhD in quantum error correction and fault tolerance at the University of Maryland.
 
 ### Former interns
 
 - **S. Siddardha Chelluri**. I supervised Siddhu for a summer residency project on fault-tolerant measurement-based quantum computing at Xanadu (alongside Ilan Tzitrin). Siddhu now works for [Welinq](https://www.welinq.fr).
-- **Praveen Jayakumar**. I supervised Praveen for a summer residency project on improving decoder performance at Xanadu (alongside Priya Nadkarni). Praveen is currently doing a PhD on quantum chemistry a the University of Toronto.
-- **Daniel Honciuc Menendez**. I supervised Daniel for a summer project on implementing fault-tolerant non-Clifford gates at Perimeter Institute. Daniel is currently doing an MSc in Physics with Quantum Dynamics at Imperial College London.
+- **Praveen Jayakumar**. I supervised Praveen for a summer residency project on improving decoder performance at Xanadu (alongside Priya Nadkarni). Praveen is currently studying for a PhD in quantum chemistry a the University of Toronto.
+- **Daniel Honciuc Menendez**. I supervised Daniel for a summer project on implementing fault-tolerant non-Clifford gates at Perimeter Institute. Daniel is currently studying for an MSc in physics with quantum dynamics at Imperial College London.
