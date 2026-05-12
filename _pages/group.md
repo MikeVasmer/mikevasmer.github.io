@@ -11,9 +11,9 @@ For current PhD and postdoc opportunities, go to [this page](https://jobs.inria.
 
 ### Current students
 
-- **Miya Dridi**. PhD student at INRIA Paris and Télécom Paris, co-supervised with [Paul Hilaire](https://paulhilaire.github.io) and [Anthony Leverrier](https://sites.google.com/site/anthonyleverrier).
+- **[Miya Dridi](https://miyadridi.github.io/)**. PhD student at INRIA Paris and Télécom Paris, co-supervised with [Paul Hilaire](https://paulhilaire.github.io) and [Anthony Leverrier](https://sites.google.com/site/anthonyleverrier).
 - **Etienne Stock**. Master's student at INRIA Paris and TU Munich, co-supervised with Lucas Berent and [Robert Wille](https://www.cda.cit.tum.de/team/wille/).
-- **Ewan Murphy**. PhD student at INRIA Paris and [Quandela](https://www.quandela.com/), co-supervised with Boris Bourdoncle and [Anthony Leverrier](https://sites.google.com/site/anthonyleverrier).
+- **[Ewan Murphy](https://ewanmurphy.github.io/)**. PhD student at INRIA Paris and [Quandela](https://www.quandela.com/), co-supervised with Boris Bourdoncle and [Anthony Leverrier](https://sites.google.com/site/anthonyleverrier).
 
 ### Former students
 
