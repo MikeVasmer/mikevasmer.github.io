@@ -9,7 +9,7 @@ nav_order: 3
 
 #### Introduction to quantum information, Université PSL, Autumn 2025
 
-Master's (M2) course taught as part of the [Master Quantum Engineering](https://www.phys.ens.fr/en/formations/master-quantum-engineering) at Université Paris Science et Lettres.
+Master's (M2) course taught as part of the [Master Quantum Engineering](https://www.phys.ens.fr/en/formations/master-quantum-engineering) at École normale supérieure -- Paris Science et Lettres.
 
 - [Lecture 1](../assets/pdf/QI-lecture1.pdf): Quantum states
 - [Lecture 2](../assets/pdf/QI-lecture2.pdf): Quantum measurements
