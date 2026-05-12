@@ -22,7 +22,7 @@ For current PhD and postdoc opportunities, go to [this page](https://jobs.inria.
 
 ### Former interns
 
-- **S. Siddardha Chelluri** → [Welinq](https://www.welinq.fr).
+- **S. Siddardha Chelluri** → Quantum Error Correction Researcher [Welinq](https://www.welinq.fr).
 - **Praveen Jayakumar** → PhD in quantum chemistry at the University of Toronto.
 - **Daniel Honciuc Menendez** → MSc in physics with quantum dynamics at Imperial College London.
 
