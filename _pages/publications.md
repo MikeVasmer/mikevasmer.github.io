@@ -12,23 +12,21 @@ nav_order: 1
 
 <!-- _pages/publications.md -->
 
-## Preprints
-
-<div class="publications">
-{%- for y in page.yearsPre %}
-  <!-- <h2 class="year">{{y}}</h2> -->
-  {% bibliography -f preprints -q @*[year={{y}}]* %}
-{% endfor %}
-</div>
-
----
-
 ## Published articles
 
 <div class="publications">
 {%- for y in page.yearsPub %}
   <!-- <h2 class="year">{{y}}</h2> -->
   {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
+</div>
+
+## Preprints
+
+<div class="publications">
+{%- for y in page.yearsPre %}
+  <!-- <h2 class="year">{{y}}</h2> -->
+  {% bibliography -f preprints -q @*[year={{y}}]* %}
 {% endfor %}
 </div>
 
