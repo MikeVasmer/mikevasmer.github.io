@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-For current PhD and postdoc opportunities, go to https://jobs.inria.fr/public/classic/fr/offres and search my name.
+For current PhD and postdoc opportunities, go to [this page](https://jobs.inria.fr/public/classic/fr/offres) and search my name.
 
 ### Current students
 
@@ -32,4 +32,4 @@ For current PhD and postdoc opportunities, go to https://jobs.inria.fr/public/cl
 
 <!-- - **S. Siddardha Chelluri**. I supervised Siddhu for a summer residency project on fault-tolerant measurement-based quantum computing at Xanadu (alongside Ilan Tzitrin). Siddhu now works for [Welinq](https://www.welinq.fr). -->
 <!-- - **Praveen Jayakumar**. I supervised Praveen for a summer residency project on improving decoder performance at Xanadu (alongside Priya Nadkarni). Praveen is currently studying for a PhD in quantum chemistry a the University of Toronto. -->
-<!-- - **Daniel Honciuc Menendez**. I supervised Daniel for a summer project on implementing fault-tolerant non-Clifford gates at Perimeter Institute. Daniel is currently studying for an MSc in physics with quantum dynamics at Imperial College London. --> -->
+<!-- - **Daniel Honciuc Menendez**. I supervised Daniel for a summer project on implementing fault-tolerant non-Clifford gates at Perimeter Institute. Daniel is currently studying for an MSc in physics with quantum dynamics at Imperial College London. -->
