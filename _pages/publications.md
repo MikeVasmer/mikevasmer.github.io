@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: For an up to date list, see <a href=https://arxiv.org/a/vasmer_m_1.html>my arXiv page</a>.
+description: For an up to date list, see my <a href=https://scholar.google.com/citations?hl=en&user=YWXgW2wAAAAJ&view_op=list_works>Google Scholar page</a>.
 yearsPub: [2026, 2025, 2024, 2023, 2022, 2021, 2019]
 yearsPre: [2026, 2025, 2024]
 yearsThe: [2019]

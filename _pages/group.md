@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-For current PhD and postdoc opportunities, go to [this page](https://jobs.inria.fr/public/classic/fr/offres) and search my name.
+For PhD and postdoc opportunities, please visit [https://jobs.inria.fr/public/classic/fr/offres](https://jobs.inria.fr/public/classic/fr/offres) and search my name.
 
 ### Current students
 
