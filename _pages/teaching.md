@@ -30,7 +30,7 @@ Graduate course taught with Debbie Leung at the Institute for Quantum Computing.
 - [Lecture 3](../assets/pdf/qLDPC-lecture3.pdf): Hypergraph product codes part II
 - [Lecture 4](../assets/pdf/qLDPC-lecture4.pdf): Quantum expander codes
 
-Lectures 5-10 covered the same content as the 2022 lectures below.
+Lectures 5–10 covered the same content as the 2022 lectures below.
 
 #### Quantum error correction and fault tolerance, IQC, Winter 2022
 
