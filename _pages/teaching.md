@@ -40,5 +40,5 @@ Graduate course taught with Debbie Leung and Beni Yoshida at the Institue for Qu
 - [Lecture 2](../assets/pdf/FT-lecture2.pdf): Fault-tolerant operators part I
 - [Lecture 3](../assets/pdf/FT-lecture3.pdf): Fault-tolerant operators part II
 - [Lecture 4](../assets/pdf/FT-lecture4.pdf): Universal fault-tolerant gate sets
-- [Lecture 5](../assets/pdf/FT-lecture5.pdf): Threshold theorem - definitions and level reduction
-- [Lecture 6](../assets/pdf/FT-lecture6.pdf): Threshold theorem - proof and assumptions
+- [Lecture 5](../assets/pdf/FT-lecture5.pdf): Threshold theorem – definitions and level reduction
+- [Lecture 6](../assets/pdf/FT-lecture6.pdf): Threshold theorem – proof and assumptions
