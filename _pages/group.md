@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-For PhD and postdoc opportunities, please visit [https://jobs.inria.fr/public/classic/fr/offres](https://jobs.inria.fr/public/classic/fr/offres) and search my name.
+I am always looking for curious and motivated students and postdocs to join the group. Current openings are listed on the [INRIA jobs portal](https://jobs.inria.fr/public/classic/fr/offres). Informal inquiries are also welcome; feel free to send me an email with your CV and a short description of your research interests.
 
 ### Current students
 
