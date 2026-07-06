@@ -2,9 +2,9 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description:
 yearsPub: [2026, 2025, 2024, 2023, 2022, 2021, 2019]
-yearsPre: [2026, 2025, 2024]
+yearsPre: [2026, 2025]
 yearsThe: [2019]
 nav: true
 nav_order: 1
